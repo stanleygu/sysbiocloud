@@ -108,9 +108,6 @@
     <Content Include="iconv.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="libcheck.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="libexpat.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
